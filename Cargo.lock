@@ -247,9 +247,9 @@ dependencies = [
 
 [[package]]
 name = "cargo-xwin"
-version = "0.13.6"
+version = "0.13.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ce9653c9f9630bbdb6c3566f9e77ad568e38eeb4c4849b0913a65aa5c43c12df"
+checksum = "c47154844233c35279d90d5a68beac22907d85442130d7398038197cfc37dbd2"
 dependencies = [
  "anyhow",
  "cargo-config2",
